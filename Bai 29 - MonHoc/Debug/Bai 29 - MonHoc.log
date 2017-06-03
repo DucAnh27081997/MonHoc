@@ -1,14 +1,17 @@
-﻿Build started 5/10/2017 2:25:20 PM.
-     1>Project "D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Bai 29 - MonHoc\Bai 29 - MonHoc.vcxproj" on node 2 (Build target(s)).
+﻿Build started 6/3/2017 5:48:25 PM.
+     1>Project "C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Bai 29 - MonHoc\Bai 29 - MonHoc.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MonHoc.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp MonHoc.cpp
          MonHoc.cpp
+         main.cpp
+         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Debug\Bai 29 - MonHoc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Debug\Bai 29 - MonHoc.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Debug\Bai 29 - MonHoc.lib" /MACHINE:X86 Debug\main.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Debug\Bai 29 - MonHoc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Debug\Bai 29 - MonHoc.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Debug\Bai 29 - MonHoc.lib" /MACHINE:X86 Debug\main.obj
          Debug\MonHoc.obj
-         Bai 29 - MonHoc.vcxproj -> D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Debug\Bai 29 - MonHoc.exe
-     1>Done Building Project "D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\Bai 29 - MonHoc\Bai 29 - MonHoc\Bai 29 - MonHoc.vcxproj" (Build target(s)).
+         LINK : C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Debug\Bai 29 - MonHoc.exe not found or not built by the last incremental link; performing full link
+         Bai 29 - MonHoc.vcxproj -> C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Debug\Bai 29 - MonHoc.exe
+     1>Done Building Project "C:\Users\LEANHDUC\Documents\GitHub\MonHoc\Bai 29 - MonHoc\Bai 29 - MonHoc.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.35
+Time Elapsed 00:00:09.26

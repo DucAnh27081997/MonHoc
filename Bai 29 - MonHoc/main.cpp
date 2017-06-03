@@ -2,6 +2,7 @@
 
 void main()
 { 
+	// day la comment
 	MonHoc *mh = new MonHoc();
 	mh->Nhap();
 	mh->Xuat();
