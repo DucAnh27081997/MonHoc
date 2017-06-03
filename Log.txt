@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+cái cc
+>>>>>>> refs/remotes/seakBz/master
